@@ -1,0 +1,9 @@
+{
+	"name": "adfdevresourcegroup6",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f00921eb-fcc2-49de-9638-eed329f07744",
+		"tenantId": "efda77cc-66ad-486a-9a38-6947a0bc6bd9"
+	}
+}

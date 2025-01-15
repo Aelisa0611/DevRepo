@@ -11,8 +11,7 @@
 					"referenceName": "AzureKeyVault1",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "scblobstorage",
-				"secretVersion": "021f4dbb21c544478339b2df9aedf2b2"
+				"secretName": "scblobstorage"
 			}
 		}
 	}
